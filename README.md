@@ -1,4 +1,4 @@
-# Read PamVhip Baroce operator for Tercen
+# Read PamChip Barcode operator for Tercen
 
 ##### Description
 
@@ -9,7 +9,7 @@ Read PamGene 9-digit barcode into components
 Input projection|.
 ---|---
 `labels` | 9 digit Barcode as input
-Input parameters|.
+
 
 
 Output relations|.
