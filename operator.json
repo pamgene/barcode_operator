@@ -1,0 +1,10 @@
+{
+  "name": "Logit",
+  "description": "Operator for reading the componenents of 9-digit Pamchip barcode",
+  "authors": [
+    "pamgene"
+  ],
+  "urls": [
+    "https://github.com/pamgene/barcode_operator"
+  ]
+}
